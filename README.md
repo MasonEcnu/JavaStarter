@@ -1,3 +1,3 @@
 # JavaStarter
-Some practices about java.!
+Some practices about java!
 
